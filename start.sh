@@ -1,0 +1,2 @@
+#!binbash
+python bot.py
